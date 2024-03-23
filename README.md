@@ -4,7 +4,7 @@
 
 <p id="description">Check out this amazing clone of Sundown Studio! I built it from scratch using HTML CSS and JavaScript. I've added some incredible animations and smooth scrolling features using GSAP and Locomotive JS. If you're impressed with what you see please don't forget to give it a star!</p>
 
-<h2>🚀 Live</h2>
+<h2>🚀 Live - (Under Development)</h2>
 
 [demo.com](demo.com)
 
